@@ -67,10 +67,6 @@ meal-finder/
 └── README.md           # Project documentation
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgements
 
 - [TheMealDB API](https://www.themealdb.com/) for providing meal data
